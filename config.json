@@ -1,9 +1,11 @@
 {
     "lastFlutterVersion": 1,
     "backendUrl": "https://penis.news",
+    "frontendUrl": "https://animix.lol",
     "notification": {
-        "active": "false",
+        "active": false,
         "maxFlutterVersion": 1,
+        "cancellable": false,
         "title": "test notification",
         "text": "45321",
         "image": "https://static.sobaka.ru/uploads/nsk/1.jpg",
@@ -11,12 +13,11 @@
         "actionText": "Открыть"
     },
     "banner": {
-        "active": "false",
+        "active": false,
         "maxFlutterVersion": 1,
         "title": "test banner",
         "text": "45321",
         "image": "https://static.sobaka.ru/uploads/nsk/1.jpg",
-        "action": "https://animix.club",
-        "actionText": "Открыть"
+        "action": "https://animix.club"
     }
 }
