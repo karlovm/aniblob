@@ -12,11 +12,11 @@
         "actionText": "Открыть"
     },
     "banner": {
-        "active": false,
-        "maxFlutterVersion": 1,
-        "title": "test banner",
-        "text": "45321",
-        "image": "https://static.sobaka.ru/uploads/nsk/1.jpg",
-        "action": "https://animix.club"
+        "active": true,
+        "maxFlutterVersion": 30,
+        "title": "Анимикс закрывается",
+        "text": "Шутка! Чтобы нас не поетрять, подпишись на тг",
+        "image": "https://i.imgur.com/lkYBU5j.png",
+        "action": "https://t.me/animixlib"
     }
 }
