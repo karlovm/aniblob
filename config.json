@@ -1,6 +1,8 @@
 {
     "backendUrl": "https://penis.news",
     "frontendUrl": "https://animix.club",
+    "fullscreenDaBlockId": "R-M-11840084-4",
+    "bannerDaBlockId": "R-M-11840084-6",
     "notification": {
         "active": false,
         "maxFlutterVersion": 1,
