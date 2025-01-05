@@ -16,9 +16,9 @@
     "banner": {
         "active": true,
         "maxFlutterVersion": 30,
-        "title": "Последний шанс",
-        "text": "Сегодня последий день для Новогодней рамки",
+        "title": "Новогодние скидки!",
+        "text": "Дед мороз поготовил подарок - скидка 500 рублей на годовую подписку!",
         "image": "https://api.penis.news/image.png",
-        "action": "https://t.me/animixlib/276"
+        "action": "https://t.me/animixlib/328"
     }
 }
