@@ -4,7 +4,7 @@
     "fullscreenDaBlockId": "R-M-11840084-4",
     "bannerDaBlockId": "R-M-11840084-6",
     "notification": {
-        "active": true,
+        "active": false,
         "maxFlutterVersion": 100,
         "cancellable": false,
         "title": "Мы скоро вернемся",
