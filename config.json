@@ -4,14 +4,14 @@
     "fullscreenDaBlockId": "R-M-11840084-4",
     "bannerDaBlockId": "R-M-11840084-6",
     "notification": {
-        "active": false,
-        "maxFlutterVersion": 1,
+        "active": true,
+        "maxFlutterVersion": 100,
         "cancellable": false,
-        "title": "test notification",
-        "text": "45321",
+        "title": "Мы скоро вернемся",
+        "text": "Проводим тех работы, чтобы анимикс работал ещё быстрее",
         "image": "https://static.sobaka.ru/uploads/nsk/1.jpg",
-        "action": "https://animix.club",
-        "actionText": "Открыть"
+        "action": "https://t.me/animixlib",
+        "actionText": "Наш уютный уголок"
     },
     "banner": {
         "active": true,
