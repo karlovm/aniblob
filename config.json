@@ -4,11 +4,11 @@
     "fullscreenDaBlockId": "R-M-11840084-4",
     "bannerDaBlockId": "R-M-11840084-6",
     "notification": {
-        "active": false,
-        "maxFlutterVersion": 100,
-        "cancellable": false,
-        "title": "Мы скоро вернемся",
-        "text": "Проводим тех работы, чтобы анимикс работал ещё быстрее",
+        "active": true,
+        "maxFlutterVersion": 10,
+        "cancellable": true,
+        "title": "Ваша версия приложения устарела",
+        "text": "Обновитесь через ТГК анимикса или Google Play",
         "image": "https://static.sobaka.ru/uploads/nsk/1.jpg",
         "action": "https://t.me/animixlib",
         "actionText": "Наш уютный уголок"
