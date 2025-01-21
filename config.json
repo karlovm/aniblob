@@ -16,9 +16,9 @@
     "banner": {
         "active": true,
         "maxFlutterVersion": 30,
-        "title": "Новогодние скидки!",
-        "text": "Дед мороз поготовил подарок - скидка 500 рублей на годовую подписку!",
-        "image": "https://api.animix.club/image.png",
-        "action": "https://t.me/animixlib/328"
+        "title": "Сайт больше не работает",
+        "text": "Мы перешли с сайта на приложение. Нажмите, чтобы узнать больше",
+        "image": "https://wallpapers.com/images/hd/man-expressing-surprise-wyomoxi8zk6cv0dt.png",
+        "action": "https://t.me/animixlib/368"
     }
 }
