@@ -5,10 +5,10 @@
     "bannerDaBlockId": "R-M-11840084-6",
     "notification": {
         "active": true,
-        "maxFlutterVersion": 10,
+        "maxFlutterVersion": 17,
         "cancellable": true,
-        "title": "Ваша версия приложения устарела",
-        "text": "Обновитесь через ТГК анимикса или Google Play",
+        "title": "Пора обновиться)",
+        "text": "В новой версии лучше работает плеер, появилиь категории и улучшилась стабильность работы. Обновитесь через ТГК анимикса или Google Play",
         "image": "https://static.sobaka.ru/uploads/nsk/1.jpg",
         "action": "https://t.me/animixlib",
         "actionText": "Наш уютный уголок"
