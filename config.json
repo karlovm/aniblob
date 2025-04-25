@@ -1,8 +1,8 @@
 {
     "backendUrl": "https://animix.one",
     "frontendUrl": "https://animix.one",
-    "fullscreenDaBlockId": "R-M-11840084-4",
-    "bannerDaBlockId": "R-M-11840084-6",
+    "fullscreenDaBlockId": "R-M-15231773-1",
+    "bannerDaBlockId": "R-M-15231773-2",
     "notification": {
         "active": true,
         "maxFlutterVersion": 17,
