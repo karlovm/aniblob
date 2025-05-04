@@ -1,11 +1,11 @@
 {
-    "backendUrl": "https://animix.one",
-    "frontendUrl": "https://animix.one",
+    "backendUrl": "https://whitewhale.cc",
+    "frontendUrl": "https://appani.animix.one",
     "fullscreenDaBlockId": "R-M-15231773-1",
     "bannerDaBlockId": "R-M-15231773-2",
     "notification": {
         "active": true,
-        "maxFlutterVersion": 17,
+        "maxFlutterVersion": 18,
         "cancellable": true,
         "title": "Пора обновиться)",
         "text": "В новой версии лучше работает плеер, появилиь категории и улучшилась стабильность работы. Обновитесь через ТГК анимикса или Google Play",
