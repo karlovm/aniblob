@@ -5,7 +5,7 @@
     "bannerDaBlockId": "R-M-15231773-2",
     "notification": {
         "active": true,
-        "maxFlutterVersion": 18,
+        "maxFlutterVersion": 17,
         "cancellable": true,
         "title": "Пора обновиться)",
         "text": "В новой версии лучше работает плеер, появилиь категории и улучшилась стабильность работы. Обновитесь через ТГК анимикса или Google Play",
