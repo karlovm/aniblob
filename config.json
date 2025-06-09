@@ -16,9 +16,9 @@
     "banner": {
         "active": true,
         "maxFlutterVersion": 30,
-        "title": "Сайт больше не работает",
-        "text": "Мы перешли с сайта на приложение. Нажмите, чтобы узнать больше",
+        "title": "Забери свой подарок",
+        "text": "Всем подписчикам нашего ТГК - стикеры беслпатно!",
         "image": "https://wallpapers.com/images/hd/man-expressing-surprise-wyomoxi8zk6cv0dt.png",
-        "action": "https://t.me/animixlib/368"
+        "action": "https://t.me/animixlib"
     }
 }
