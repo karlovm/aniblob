@@ -16,9 +16,9 @@
     "banner": {
         "active": true,
         "maxFlutterVersion": 30,
-        "title": "ААААААААА",
-        "text": "Жми сюда и получи стикеры за подписку на тгк",
-        "image": "https://raw.githubusercontent.com/karlovm/aniblob/refs/heads/main/img.png",
-        "action": "https://t.me/animixlib"
+        "title": "Получи хэловинскую рамку",
+        "text": "За подписку на тгк",
+        "image": "https://raw.githubusercontent.com/karlovm/aniblob/refs/heads/main/helo.png",
+        "action": "https://t.me/animixlib/682"
     }
 }
