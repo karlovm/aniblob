@@ -16,9 +16,9 @@
     "banner": {
         "active": true,
         "maxFlutterVersion": 30,
-        "title": "Получи хэловинскую рамку",
+        "title": "Залутай наши стикеры",
         "text": "За подписку на тгк",
         "image": "https://raw.githubusercontent.com/karlovm/aniblob/refs/heads/main/helo.png",
-        "action": "https://t.me/animixlib/682"
+        "action": "https://t.me/animixlib/"
     }
 }
