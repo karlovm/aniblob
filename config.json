@@ -16,9 +16,9 @@
     "banner": {
         "active": true,
         "maxFlutterVersion": 30,
-        "title": "НОВОГОДНЯЯ РАМКА!",
-        "text": "За подписку на тгк. ВЫДАЧА 8 ЯНВАРЯ! УСПЕЙ БРО",
-        "image": "https://static55.tgcnt.ru/posts/_0/60/604ed028ca08cfb485924ebed40e87c6.jpg",
-        "action": "https://t.me/animixlib/728"
+        "title": "МАНГА СКОРО!",
+        "text": "Загружайте мангу на анимикс и получайте донаты.",
+        "image": "https://raw.githubusercontent.com/karlovm/aniblob/refs/heads/main/manga.png",
+        "action": "https://t.me/animixauthors"
     }
 }
