@@ -16,9 +16,9 @@
     "banner": {
         "active": true,
         "maxFlutterVersion": 30,
-        "title": "МАНГА СКОРО!",
-        "text": "Загружайте мангу на анимикс и получайте донаты.",
-        "image": "https://raw.githubusercontent.com/karlovm/aniblob/refs/heads/main/manga.png",
-        "action": "https://t.me/animixauthors"
+        "title": "РАБОТАЕТ ТЕЛЕГА?",
+        "text": "Нажмите на стрелочку и подпишитесь на нас, пупсики",
+        "image": "https://raw.githubusercontent.com/karlovm/aniblob/refs/heads/main/img.png",
+        "action": "https://t.me/animixlib"
     }
 }
