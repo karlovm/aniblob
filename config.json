@@ -16,9 +16,9 @@
     "banner": {
         "active": true,
         "maxFlutterVersion": 30,
-        "title": "Проблемы с плеером",
-        "text": "Приложение может работать с перебоями, мы восстанавливаем работу в течение 1-2 дней. Воспользуйтесь нашим телеграм каналом, чтобы быть в курсе",
-        "image": "https://i.pinimg.com/736x/f3/71/e5/f371e52ab7512d6e3368fe6b99a82bfb.jpg",
+        "title": "РАБОТАЕТ ТЕЛЕГА?",
+        "text": "Нажмите на стрелочку и подпишитесь на нас, пупсики",
+        "image": "https://raw.githubusercontent.com/karlovm/aniblob/refs/heads/main/img.png",
         "action": "https://t.me/animixlib"
     }
 }
