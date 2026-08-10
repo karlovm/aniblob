@@ -16,9 +16,9 @@
     "banner": {
         "active": true,
         "maxFlutterVersion": 30,
-        "title": "РАБОТАЕТ ТЕЛЕГА?",
-        "text": "Нажмите на стрелочку и подпишитесь на нас, пупсики",
-        "image": "https://raw.githubusercontent.com/karlovm/aniblob/refs/heads/main/img.png",
-        "action": "https://t.me/animixlib"
+        "title": "Добавили озвучки!",
+        "text": "Нажмите сюда и скачайте бета-версию приложения и получите доступ к озвучкам и новому дизайну",
+        "image": "https://raw.githubusercontent.com/karlovm/aniblob/refs/heads/main/ozv.png",
+        "action": "https://t.me/animixapps"
     }
 }
