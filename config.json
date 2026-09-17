@@ -16,9 +16,9 @@
     "banner": {
         "active": true,
         "maxFlutterVersion": 30,
-        "title": "Добавили озвучки!",
-        "text": "Нажмите сюда и скачайте бета-версию приложения и получите доступ к озвучкам и новому дизайну",
-        "image": "https://raw.githubusercontent.com/karlovm/aniblob/refs/heads/main/ozv.png",
-        "action": "https://t.me/animixapps"
+        "title": "Газ анимешица?",
+        "text": "Найди друзей в нашем чатике в тг, жми, котенок",
+        "image": "https://raw.githubusercontent.com/karlovm/aniblob/refs/heads/main/blya.jpg",
+        "action": "https://t.me/animixchatix"
     }
 }
