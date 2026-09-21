@@ -16,9 +16,9 @@
     "banner": {
         "active": true,
         "maxFlutterVersion": 30,
-        "title": "Газ анимешица?",
-        "text": "Найди друзей в нашем чатике в тг, жми, котенок",
-        "image": "https://raw.githubusercontent.com/karlovm/aniblob/refs/heads/main/blya.jpg",
-        "action": "https://t.me/animixchatix"
+        "title": "Новая версия приложения",
+        "text": "Скачайте новую версию с озвучками, скачиванием и дизайном",
+        "image": "https://raw.githubusercontent.com/karlovm/aniblob/refs/heads/main/ozv.jpg",
+        "action": "https://t.me/animixapps"
     }
 }
